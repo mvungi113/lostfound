@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102944635603",
+    "project_id": "database-7ae27",
+    "storage_bucket": "database-7ae27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102944635603:android:dfbcb18f167cbe2881f226",
+        "android_client_info": {
+          "package_name": "com.example.lostfound"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPag_rwfZHwrkEiIN8BU5rZKnJLqxRa08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
